@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/client-nov-2021-excelable/",
     "serve": "vite preview"
   },
   "dependencies": {
